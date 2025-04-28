@@ -1,5 +1,5 @@
-a=int(input("Enter First Number")
-b=int(input("Enter Second Number")
+a=int(input("Enter First Number"))
+b=int(input("Enter Second Number"))
 c=a+b
 d=a-b
 e=a*b
